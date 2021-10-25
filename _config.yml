@@ -1,12 +1,12 @@
 # Base blog settings
-baseurl                      : "/home" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "hackerspaceofsms.github.io" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "hackerspaceofsms.github.io" # the base hostname & protocol for your site
+url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
   title                      : Hackerspace
-  description                :
+  description                  : >
                                this should contain a proper description
 
 # Layout configuration
